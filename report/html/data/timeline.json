@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "raindeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "11572-MainThread",
+      "children" : [ {
+        "name" : "test_01_get_verify_code",
+        "uid" : "70201e8b2f48924f",
+        "parentUid" : "fc8b912bbac815a1c407d1ec69727729",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601186790846,
+          "stop" : 1601186798002,
+          "duration" : 7156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc8b912bbac815a1c407d1ec69727729"
+    } ],
+    "uid" : "bfdd6e38d9b77c13d42bb391ae5c9e62"
+  } ]
+}

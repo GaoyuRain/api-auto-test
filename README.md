@@ -1,2 +1,5 @@
-# api-auto-test
-自动化api脚本练习
+主要使用的文件夹：
+case： 存放测试脚本
+data： 各个接口的url和参数
+
+api 文件夹暂时用不到

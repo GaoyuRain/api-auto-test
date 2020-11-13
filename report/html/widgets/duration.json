@@ -1,0 +1,11 @@
+[ {
+  "uid" : "70201e8b2f48924f",
+  "name" : "test_01_get_verify_code",
+  "time" : {
+    "start" : 1601186790846,
+    "stop" : 1601186798002,
+    "duration" : 7156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

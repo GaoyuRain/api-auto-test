@@ -1,0 +1,27 @@
+1000049 ， 835
+1000048， 836
+1000050，837
+2    ，   177
+1000043，15225111055
+
+
+赠送礼物：
+curl --location --request POST '0.0.0.0:8420/walkman/internal/api/gift/send' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+	"gift_id":2,
+	"count":1,
+	"from_uid":1000048,
+	"to_uid":1009,
+	"rice":30
+}'
+
+
+
+
+查询用户饭票数：
+curl --location --request GET '0.0.0.0:8420/walkman/internal/api/gift/user/rice_ticket?uid=1009'
+
+
+查询送礼用户当前房间榜单名次
+curl --location --request GET '0.0.0.0:8420/walkman/internal/api/gift/user/ranking?uid=1000048&owner_uid=1009'

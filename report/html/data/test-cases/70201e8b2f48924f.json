@@ -1,0 +1,84 @@
+{
+  "uid" : "70201e8b2f48924f",
+  "name" : "test_01_get_verify_code",
+  "fullName" : "case.test_01_login.TestLogin#test_01_get_verify_code",
+  "historyId" : "94b76276e1ef4110ea99f97c6d2339fa",
+  "time" : {
+    "start" : 1601186790846,
+    "stop" : 1601186798002,
+    "duration" : 7156
+  },
+  "description" : "获取验证码",
+  "descriptionHtml" : "<p>获取验证码</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "获取验证码",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "获取验证码",
+      "time" : {
+        "start" : 1601186790846,
+        "stop" : 1601186798002,
+        "duration" : 7156
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "raindeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "11572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_01_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70201e8b2f48924f.json",
+  "parameterValues" : [ ]
+}

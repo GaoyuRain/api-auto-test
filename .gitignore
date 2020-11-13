@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+将删除 .idea/
+将删除 report/html/data/attachments/
+将删除 report/html/plugins/jira/
+将删除 report/html/plugins/junit/
+将删除 report/html/plugins/trx/
+将删除 report/html/plugins/xctest/
+将删除 report/html/plugins/xray/
+将删除 report/html/plugins/xunit-xml/
